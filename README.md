@@ -82,6 +82,8 @@ interface BufferObject {
 
 ## Credit
 
+See the original repo by [Daniel Morrison](https://github.com/danm/image-hash) and the pull request, which this repo is based on by [Luna](https://github.com/ImLunaHey/image-hash/tree/main).
+
 The hard bit of this comes with thanks from [commonsmachinery](https://github.com/commonsmachinery) for [blockhash-js](https://github.com/commonsmachinery/blockhash-js)
 
 ## License
